@@ -3413,7 +3413,7 @@ img.u-pull-left {
 
 .about-info__text {
     padding     : var(--vspace-3_5) 10vw var(--vspace-2) 0;
-    margin-left : -4rem;
+    margin-left : 8rem;
 }
 
 .about-info__text .text-pretitle {
@@ -3542,7 +3542,7 @@ img.u-pull-left {
 
     .about-info__text {
         padding     : var(--vspace-1) 0 0 0;
-        margin-left : 0;
+        margin-left : 8rem;
     }
 }
 
